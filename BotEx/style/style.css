@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigation_panel{
+    border-radius: 15px;
+    color:white;
+    width: 100%;
+    height: 70px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+}
+.navigation_panel button{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.left_panel{
+    margin-left: 20px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.right_panel{
+    margin-right: 20px;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.right_panel a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.restaurant-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .restaurant {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .restaurant img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .restaurant h2 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  .restaurant p {
+    margin-top: 5px;
+    font-size: 14px;
+  }
+
+  .serch{
+    border-radius: 15px;
+    background-color: white;
+    width: 270px;
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .serch button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 10px 10px 0px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 0px;
+    margin-left: 0px;
+    height: 30px;
+    width: 50px;
+  }
+  .serch input{
+    margin-right: auto;
+    margin-left: 20px;
+    padding-left: 20px;
+    width: 170px;
+    height: 30px;
+    border: 0px;
+  }
+  .left_panel h1{
+    margin-top: auto;
+    margin-bottom: auto;
+  }

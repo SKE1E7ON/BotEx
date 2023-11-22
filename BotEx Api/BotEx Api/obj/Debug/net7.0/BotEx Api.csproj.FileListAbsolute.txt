@@ -1,0 +1,46 @@
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\appsettings.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\BotEx Api.exe
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\BotEx Api.deps.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\BotEx Api.runtimeconfig.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\BotEx Api.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\BotEx Api.pdb
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.csproj.AssemblyReference.cache
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.AssemblyInfoInputs.cache
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.AssemblyInfo.cs
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.csproj.CoreCompileInputs.cache
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets\msbuild.BotEx Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets\msbuild.build.BotEx Api.props
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BotEx Api.props
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BotEx Api.props
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\scopedcss\bundle\BotEx Api.styles.css
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.csproj.CopyComplete
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\refint\BotEx Api.dll
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.pdb
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\BotEx Api.genruntimeconfig.cache
+C:\Users\SKE1E7ON\source\repos\BotEx Api\BotEx Api\obj\Debug\net7.0\ref\BotEx Api.dll

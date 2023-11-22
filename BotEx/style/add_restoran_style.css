@@ -1,0 +1,22 @@
+.main_panel{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.main_panel input{
+    height: 30px;
+    margin-bottom: 20px;
+}
+.main_panel select{
+    height: 30px;
+    margin-bottom: 20px;
+}
+.main_panel button{
+    height: 30px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
