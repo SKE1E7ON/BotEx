@@ -82,8 +82,6 @@ namespace BotEx_Api.Controllers
             var newUser = new User { Loggin = login, Password = password, Name = name, AdresDefalt = adres, CardDefalt = "string", Phone = phone, IdRole = 1 };
             DataBaseConnection.Users.Add(newUser);
             DataBaseConnection.SaveChanges();
-
-            // Возвращаем успешный результат
             return Ok("Регистрация прошла успешно.");
         }
     }
