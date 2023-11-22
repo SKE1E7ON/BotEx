@@ -38,23 +38,7 @@ namespace BotEx_Api.Controllers
             }
             return BadRequest();
         }
-
-        //public ActionResult<OrdersGETRequest> GetOrdersId(int id)
-        //{
-        //    List<OrdersGETRequest> gETRequests = new List<OrdersGETRequest>();
-        //    List<Order> orders = DataBaseConnection.Orders.ToList().Where(x => x.IdOrders == id).ToList();
-        //    if (orders != null)
-        //    {
-        //        gETRequests = OrdersGETRequest.ConvertToGet(orders);
-        //        return Content(JsonConvert.SerializeObject(gETRequests, mainSettings));
-        //    }
-        //    else
-        //    {
-        //        return BadRequest();
-        //    }
-        //}
-
-
+        
         [HttpGet]
         [Route("/users/login")]
         public ActionResult<UserGetRequest> GetUserLogin(string login, string password) 
