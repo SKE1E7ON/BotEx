@@ -17,6 +17,31 @@ namespace BotEx_Api.Controllers
     {
         BotExContext DataBaseConnection = new BotExContext();
 
+<<<<<<< HEAD
+=======
+        [HttpPost]
+        [Route("/users/add")]
+        public ActionResult<User> ClientRegistration([FromBody] UsersDTO user)
+        {
+            if (user != null)
+            {
+                List<User> users = DataBaseConnection.Users.ToList();
+                foreach(User claimsPrincipal in users)
+                {
+                    if (claimsPrincipal.Loggin == user.Loggin) 
+                    {
+                        return Conflict();
+                    }
+                }
+                user.Id = DataBaseConnection.Users.Count() + 1;
+                DataBaseConnection.Users.Add(UserConverter(user));
+                DataBaseConnection.SaveChanges();
+                return Ok();
+            }
+            return BadRequest();
+        }
+        
+>>>>>>> fc5d3d3bd804a0e8c310d838acb24c05b4216e64
         [HttpGet]
         [Route("/users/login")]
         public ActionResult<UserGetRequest> GetUserLogin(string login, string password) 
