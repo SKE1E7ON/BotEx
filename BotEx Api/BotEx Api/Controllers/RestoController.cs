@@ -30,7 +30,7 @@ namespace BotEx_Api.Controllers
                 {
                     if (restoran1.Naming == restoran.Naming)
                     {
-                        return Conflict();
+                        return Conflict("nffrjq h");
                     }
                 }
                 restoran.RestoransId = DataBaseConnection.Restorans.Count() + 1;

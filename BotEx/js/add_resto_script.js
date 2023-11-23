@@ -5,7 +5,7 @@ function myFunction(){
     var inpUserRate_resto = document.getElementById("UserRate_resto").value;
     var inpCostRate_resto = document.getElementById("CostRate_resto").value;
     
-    const url = 'http://localhost:5059/resto';
+    const url = 'http://localhost:5059/restoPost';
 const options = {
   method: 'POST',
   headers: {
@@ -25,7 +25,7 @@ const options = {
 
 fetch(url, options)
   .then(response => response.text())
-  .then(result => console.log(result))
-  .catch(error => console.log('error', error));
+  .then(result => console.log(result + "Успешно"))
+  .catch(error => console.log('error', error + "не получилось, не фортануло"));
 
 }
